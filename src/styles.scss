@@ -1,0 +1,24 @@
+/* You can add global styles to this file, and also import other style files */
+@import '@fortawesome/fontawesome-free/scss/fontawesome.scss';
+@import '@fortawesome/fontawesome-free/scss/solid.scss';
+@import '@fortawesome/fontawesome-free/scss/regular.scss';
+@import '@fortawesome/fontawesome-free/scss/brands.scss';
+
+@import 'mdb-angular-ui-kit/assets/scss/mdb.scss';
+@import 'assets/css/animate.min.css';
+@import 'assets/css/bootstrap.min.css';
+@import 'assets/css/easyzoom.css';
+//@import 'assets/css/fontawesome.min.css';
+@import 'assets/css/jquery-ui.min.css';
+@import 'assets/css/jquery.rateyo.css';
+@import 'assets/css/lightbox.min.css';
+@import 'assets/css/responsive.css';
+@import 'assets/css/slicknav.css';
+@import 'assets/css/style.css';
+
+.lightbox {
+  position: fixed !important;
+  top: 50% !important;
+  left: 50% !important;
+  transform: translate(-50%, -50%);
+}

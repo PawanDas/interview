@@ -1,0 +1,30 @@
+.bg-cust {
+  background: #f3f5f7;
+}
+.pt-custom{
+  padding-top: 9rem !important;
+}
+hr:not([size]) {
+  color: #2485C7;
+    height: 2px;
+}
+.btn-cse{
+  background-color: #0B5283;
+  color: #FFFFFF;
+  border-radius: 1rem;
+}
+.bg-font{
+  color: #2485C7;
+}
+.ft-remove{
+  color: #DA3F3F;
+}
+.btn-submit{
+  background-color: #284070;
+    color: #FFFFFF;
+    border-radius: 2rem;
+}
+.font-lg{
+  font-size: x-large;
+    color: #E86868;
+}
